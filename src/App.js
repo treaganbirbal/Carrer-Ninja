@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import AllJobs from './components/AllJobs'
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <div className='main'>
         <h1>Welcome to Career Ninja</h1>
       </div>
-      
+      <AllJobs />
     </div>
   );
 }

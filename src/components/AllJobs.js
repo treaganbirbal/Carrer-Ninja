@@ -9,6 +9,10 @@ class AllJobs extends React.Component{
         }
     }
 
+    componentDidMount(){
+        
+    }
+
     render(){
         return(
             <>

@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className='main'>
-        <h1>Career Ninja</h1>
+        <h1>PIKD.com</h1>
       </div>
       <AllJobs />
     </div>
